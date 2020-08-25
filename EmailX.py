@@ -14,7 +14,7 @@ rgx = r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.com"
 email_list = []
 
 
-parser = argparse.ArgumentParser(description='Email Collector From HTML Pages')
+parser = argparse.ArgumentParser(description='Extract Emails From Html Content')
 parser.add_argument('-w','--wordlist', help='Import wordlist')
 parser.add_argument('-u','--url', help='Collect Emails from url [HTML Page]')
 parser.add_argument('-o','--output', help='Save Results')
