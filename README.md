@@ -1,6 +1,7 @@
 # EmailX
 
-Extract Emails From HTML Content 
+#### Extract Emails From HTML Content 
+
 ![](https://raw.githubusercontent.com/Seth0x41/EmailX/master/img/1.PNG)
 
 ``` 
