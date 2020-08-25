@@ -9,7 +9,7 @@ Usage :
 >>> python EmailX.py http://www.pmdp.ps/roster
 ```
 
-![](https://raw.githubusercontent.com/Seth0x41/EmailX/master/img/2.PNG)
+![](https://raw.githubusercontent.com/Seth0x41/EmailX/master/img/4.PNG)
 
 ```
 >>> python EmailX.py -w mylist.txt -o results.txt
